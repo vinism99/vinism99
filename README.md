@@ -1,12 +1,23 @@
-# Vini Martins 🖐🏼
->**Atualmente, cursando faculdade superior tecnólogo em Análise e Desenvolvimento de Sistemas 💻**</br>
+## Olá, eu sou o Vinícius Martins! 👋🏼  
 
-📧 Email: vinism99@gmail.com
+>Estudante de **Análise e Desenvolvimento de Sistemas** 
 
-<a href="https://www.linkedin.com/in/vinism99/"> <img align="center" alt="c" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+Busco estágio para atuar na área de TI em **desenvolvimento de software**, sou apaixonado por tecnologia e sempre buscando aprender, 
+criativo e curioso, trabalho em equipe e determinação.
 
-</br>**Tecnologias que tive contato 📚**
-* C, JavaScript, HTML, CSS, Markdown, MySQL, Python, Unity
-* Apaixonado por tecnologia e sempre buscando aprender
-* Criativo e curioso
-* Trabalho em equipe e determinação
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vini-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">  
+  <img align="center" alt="Vini-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>  
+
+##
+
+<div>
+  <a href="mailto:vinism99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vinism99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://vinism99.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-2ea44f?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
+</div>

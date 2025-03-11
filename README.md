@@ -17,7 +17,7 @@ criativo e curioso, trabalho em equipe e determinação.
 ##
 
 <div>
-  <a href="mailto:vinism99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:vinism99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinism99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://vinism99.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-2ea44f?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
+  <a href="https://vinism99.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-3B3B3B?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
 </div>

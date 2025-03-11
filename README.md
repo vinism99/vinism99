@@ -2,8 +2,7 @@
 
 >Estudante de **Análise e Desenvolvimento de Sistemas** 
 
-Busco estágio para atuar na área de TI em **desenvolvimento de software**, sou apaixonado por tecnologia e sempre buscando aprender, 
-criativo e curioso, trabalho em equipe e determinação.
+Busco estágio na área de TI, com foco em desenvolvimento de software. Sou apaixonado por tecnologia, sempre em busca de aprendizado contínuo. Tenho criatividade, curiosidade e sou determinado. Trabalho bem em equipe e estou comprometido com o crescimento profissional
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
